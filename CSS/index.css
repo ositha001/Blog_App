@@ -15,3 +15,7 @@ body {
 #jumbo-emoji{
     text-align: center;
 }
+
+.jumbotron{
+  border-radius: 25px;
+}

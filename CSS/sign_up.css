@@ -1,0 +1,26 @@
+body {
+  background-color: #0d1219;
+}
+
+.container {
+  border-radius: 5px;
+}
+
+#card-header{
+    background-color: #0d1219;
+    color: white;
+}
+
+#card-body{
+    background-color: #0d1219;
+    color: white;
+}
+
+#card-footer{
+    background-color: #0d1219;
+    color: white;
+}
+
+#helpId{
+    color: rgb(107, 106, 106) !important;
+}

@@ -17,15 +17,22 @@
 
 <?php include_once('inc/navbar.php') ?>
 
-<div class="container">
+<!-- <div class="container ">
     <div class="row mt-4">
-         <div class="col-md-12" style="margin:85px">
+         <div class="col-sm-12" style="margin:85px">
             <div class="jumbotron ">        
             <h4 id="jumbo-header">Welcome To The DevTubes</h4>   
             <h4 id="jumbo-emoji">👾🧑‍💻👾</h4> 
             </div>
          </div>
     </div>
+</div> -->
+
+<div class="jumbotron container">
+            <div class="mt-4 row rowContent p-4">        
+            <h4 id="jumbo-header">Welcome To The DevTubes</h4>   
+            <h4 id="jumbo-emoji">👾🧑‍💻👾</h4> 
+            </div>
 </div>
 
 </body>
